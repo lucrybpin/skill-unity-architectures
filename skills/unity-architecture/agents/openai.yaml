@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Architecture"
+  short_description: "Defina e aplique Unit/Identity Design ou Glue"
+  default_prompt: "Use $unity-architecture para definir ou revisar o contrato de arquitetura deste projeto Unity."
